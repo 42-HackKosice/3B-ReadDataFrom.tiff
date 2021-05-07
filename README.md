@@ -11,7 +11,7 @@ This program should help with reading the images and printing the output value t
 
 - Timotej Breznický - 3rd grade
 - Matej Mazúr - 3rd grade
-- Marko Poľanský - 3rd grade
+- Marko Poľanský - 3rd grade  
 From High school of electrical engineering in Prešov, Slovakia
 
 ## Description
