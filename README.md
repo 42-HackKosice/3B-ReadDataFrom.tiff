@@ -20,9 +20,9 @@ We tried and we created an program that add the contour of the item on the image
 
 ## Protoype
 
-We are sorry that we didn't make more, but this week was a little hectic for us and we were only starting with the Data Science so we are happy that we did what we did.
-It could be better, from our side but...
-The challenge was really interesting and we hope that we will learn more about data science in the future.
+We are sorry that we didn't make more, but this week was a little hectic for us in school and we were only starting with the Data Science so we are happy that we accomplished what we did.
+It could be better, from our side, but...
+The challenge was really interesting and we hope that we will learn more about Data Science in the future.
 
 
 ## License
