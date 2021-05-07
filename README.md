@@ -27,4 +27,4 @@ The challenge was really interesting and we hope that we will learn more about d
 
 ## License
 
-*This repository includes an [unlicense](http://unlicense.org/) statement though you may want [to choose a different license](https://choosealicense.com/).*
+[MIT License](https://github.com/42-HackKosice/3B-ReadDataFrom.tiff/blob/main/LICENSE)
