@@ -1,6 +1,6 @@
 # 3B-ReadDataFrom.tiff
 
-This program should help us with reading the images and printing the output value to .csv.
+This program should help with reading the images and printing the output value to .csv.
 [Jupyter Notebook of our result](https://github.com/42-HackKosice/3B-ReadDataFrom.tiff/blob/main/EllipseFitting.ipynb)
 
 ## Team
